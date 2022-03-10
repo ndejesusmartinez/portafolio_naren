@@ -41,7 +41,7 @@
   $mail->Username = "narenmartinez20@gmail.com";
 
   // Password para la autenticación SMTP
-  $mail->Password = "Naren2022@";
+  $mail->Password = "";
 
   // Estableciendo como quién se va a enviar el mail
   $mail->setFrom('usuario@gmail.com', 'PORTAFOLIO WEB');
